@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Главная страница -->
+  <url>
+    <loc>https://www.velocitychemicals.com.tr/</loc>
+
+    <!-- Изображение 1 -->
+    <image:image>
+      <image:loc>https://www.velocitychemicals.com.tr/assets/images/image01.jpg?v=f4ff163e</image:loc>
+      <image:caption>Velocity Lightweight Body Filler Putty Masilla can for automotive repairs, easy sanding and minimal shrinkage</image:caption>
+    </image:image>
+
+    <!-- Изображение 2 -->
+    <image:image>
+      <image:loc>https://www.velocitychemicals.com.tr/assets/images/image07.jpg?v=f4ff163e</image:loc>
+      <image:caption>Velocity Heavyweight Body Filler Putty Masilla for deep dents and professional car body repair</image:caption>
+    </image:image>
+
+    <!-- Изображение 3 -->
+    <image:image>
+      <image:loc>https://www.velocitychemicals.com.tr/assets/images/image02.jpg?v=f4ff163e</image:loc>
+      <image:caption>Velocity Acrylic Primer with Lightweight Body Filler Putty Masilla for surface preparation and corrosion protection</image:caption>
+    </image:image>
+
+    <!-- Изображение 4 -->
+    <image:image>
+      <image:loc>https://www.velocitychemicals.com.tr/assets/images/image04.jpg?v=f4ff163e</image:loc>
+      <image:caption>Velocity Clear Coat for automotive finishing combined with Lightweight Body Filler Putty Masilla application</image:caption>
+    </image:image>
+
+    <!-- Изображение 5 -->
+    <image:image>
+      <image:loc>https://www.velocitychemicals.com.tr/assets/images/image05.jpg?v=f4ff163e</image:loc>
+      <image:caption>Applying Velocity Lightweight Body Filler Putty Masilla on car panel for smooth surface repair</image:caption>
+    </image:image>
+
+    <!-- Изображение 6 -->
+    <image:image>
+      <image:loc>https://www.velocitychemicals.com.tr/assets/images/image03.jpg?v=f4ff163e</image:loc>
+      <image:caption>Full range of Velocity Lightweight Body Filler Putty Masilla products for professional automotive repair</image:caption>
+    </image:image>
+
+  </url>
+
+</urlset>
